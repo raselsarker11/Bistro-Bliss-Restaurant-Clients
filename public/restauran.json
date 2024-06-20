@@ -1,0 +1,68 @@
+[
+    {
+        "_id": "639e2a29706bc49c82805911",
+        "userName": "motu",
+        "email": "motu@patlu.com",
+        "restaurantName": "restaurant zero",
+        "location": "bangladesh",
+        "deliveryTime": "25",
+        "minOrder": "10",
+        "coverImg": "https://i.ibb.co/dBGVNTG/pexels-pascal-claivaz-410648.jpg",
+        "approved": true
+    },
+    {
+        "_id": "63a54083e5d20ceab881133f",
+        "userName": "Rasel sarker",
+        "email": "restauran@1.com",
+        "restaurantName": "restaurant one",
+        "location": "Bangladesh",
+        "deliveryTime": "20",
+        "minOrder": "50",
+        "coverImg": "https://i.ibb.co/K0C3Z1Y/pexels-lgh-1256875.jpg",
+        "approved": true
+    },
+    {
+        "_id": "63a540eae5d20ceab8811341",
+        "userName": "Rasel sarker",
+        "email": "restauran@2.com",
+        "restaurantName": "restaurant two",
+        "location": "Bangladesh",
+        "deliveryTime": "30",
+        "minOrder": "50",
+        "coverImg": "https://i.ibb.co/0Qmx1xv/pexels-senuscape-2313686.jpg",
+        "approved": true
+    },
+    {
+        "_id": "63a54128e5d20ceab8811343",
+        "userName": "Rasel sarker",
+        "email": "restauran@3.com",
+        "restaurantName": "restaurant three",
+        "location": "Bangladesh",
+        "deliveryTime": "30",
+        "minOrder": "50",
+        "coverImg": "https://i.ibb.co/1L38ZtD/pexels-lukas-1352269.jpg",
+        "approved": true
+    },
+    {
+        "_id": "63a54183e5d20ceab8811345",
+        "userName": "Rasel sarker",
+        "email": "restauran@4.com",
+        "restaurantName": "restaurant four",
+        "location": "Bangladesh",
+        "deliveryTime": "30",
+        "minOrder": "50",
+        "coverImg": "https://i.ibb.co/f4SGXD8/pexels-eghost-2611917.jpg",
+        "approved": true
+    },
+    {
+        "_id": "63a5420ee5d20ceab8811347",
+        "userName": "Rasel sarker",
+        "email": "restauran@5.com",
+        "restaurantName": "restaurant five",
+        "location": "Bangladesh",
+        "deliveryTime": "30",
+        "minOrder": "100",
+        "coverImg": "https://i.ibb.co/bdcWkZh/pexels-engin-akyurt-1437267.jpg",
+        "approved": true
+    }
+]

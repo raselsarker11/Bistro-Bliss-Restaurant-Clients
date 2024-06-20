@@ -2,14 +2,16 @@ import { Link, NavLink } from "react-router-dom";
 
 const NavBar = () => {
     const navOptions = <>
-        <li><Link to="/">Home</Link></li>
+        <li className="text-white"><Link to="/">Home</Link></li>
         <li><Link to="/menu">Our Menu</Link></li>
+        <li><Link to="/product">Products</Link></li>
         <li><Link to="/order/salad">Order Food</Link></li>
+        <li><Link to="/contact">Contact us</Link></li>
     </>
 
     return (
         <>
-            <div className="navbar fixed z-10 bg-opacity-30 max-w-screen-xl bg-black text-white">
+            <div className="navbar fixed z-10 bg-opacity-35  max-w-screen-xl bg-black text-white">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -19,7 +21,7 @@ const NavBar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl">Bistro Boss</a>
+                    <a className="btn btn-ghost normal-case text-xl text-white">Bistro Boss</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -27,10 +29,10 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                <NavLink to="login" className="btn">
+                <NavLink to="login" className="rounded-md px-3 py-2 font-semibold transition duration-150 ease-in hover:text-primary text-white">
                     Sign In
                 </NavLink>
-                <NavLink to="register" className="btn">
+                <NavLink to="register" className="bg-primary rounded-md transition duration-150 ease-in font-semibold px-4 py-2 hidden  lg:block border-2 border-primary hover:text-primary hover:bg-white text-white">
                     Sign Up
                 </NavLink>
                 </div>

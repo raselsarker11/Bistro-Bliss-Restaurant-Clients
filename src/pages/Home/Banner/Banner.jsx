@@ -7,10 +7,14 @@ import img3 from '../../../assets/home/03.png';
 import img4 from '../../../assets/home/04.jpg';
 import img5 from '../../../assets/home/05.png';
 import img6 from '../../../assets/home/06.png';
+import img7 from '../../../assets/home/hero0.1.jpg';
 
 const Banner = () => {
     return (
         <Carousel>
+            <div>
+                <img src={img7} />
+            </div>
             <div>
                 <img src={img1} />
             </div>

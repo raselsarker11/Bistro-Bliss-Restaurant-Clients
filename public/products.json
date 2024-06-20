@@ -1,0 +1,344 @@
+[
+    {
+    "_id": "63a54b8e08ebbe14328339fa",
+    "productName": "Beef curry",
+    "price": "510",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe14328339fc",
+    "productName": "Beef bb",
+    "price": "300",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937657715-bc7b4b7962c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe14328339fd",
+    "productName": "Beef BBQ",
+    "price": "400",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe14328339fe",
+    "productName": "Chicken BBQ",
+    "price": "260",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe14328339ff",
+    "productName": "Chicken Fry",
+    "price": "230",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a00",
+    "productName": "Chicken curry",
+    "price": "900",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a01",
+    "productName": "Cake",
+    "price": "220",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a02",
+    "productName": "Bisk",
+    "price": "280",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a03",
+    "productName": "Chicken curry",
+    "price": "450",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a04",
+    "productName": "Pasta Two",
+    "price": "300",
+    "category": "Pasta",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a05",
+    "productName": "Pasta One",
+    "price": "100",
+    "category": "Pasta",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1579684947550-22e945225d9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54b8e08ebbe1432833a06",
+    "productName": "Pasta Three",
+    "price": "50",
+    "category": "Pasta",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "motu@patlu.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645f8",
+    "productName": "Beef Ccq",
+    "price": "200",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645fa",
+    "productName": "Beef BBQ",
+    "price": "400",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645fb",
+    "productName": "Chicken BBQ",
+    "price": "260",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645fc",
+    "productName": "Chicken Fry",
+    "price": "230",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645fd",
+    "productName": "Chicken curry",
+    "price": "900",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645fe",
+    "productName": "Cake",
+    "price": "220",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe14328645ff",
+    "productName": "Bisk",
+    "price": "280",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe1432864600",
+    "productName": "Chicken curry",
+    "price": "450",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe1432864601",
+    "productName": "Pasta Two",
+    "price": "300",
+    "category": "Pasta",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54ccf08ebbe1432864602",
+    "productName": "Pasta One",
+    "price": "100",
+    "category": "Pasta",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1579684947550-22e945225d9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com"
+    },
+    {
+    "_id": "63a54d1b08ebbe143286e0ee",
+    "productName": "Beef curry",
+    "price": "510",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@2.com"
+    },
+    {
+    "_id": "63a54d1b08ebbe143286e0ef",
+    "productName": "Beef BBQ",
+    "price": "400",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@2.com"
+    },
+    {
+    "_id": "63a54d1b08ebbe143286e0f0",
+    "productName": "Chicken curry",
+    "price": "900",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@2.com"
+    },
+    {
+    "_id": "63a54d1b08ebbe143286e0f1",
+    "productName": "Cake",
+    "price": "220",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@2.com"
+    },
+    {
+    "_id": "63a54d1b08ebbe143286e0f2",
+    "productName": "Pasta Two",
+    "price": "300",
+    "category": "Pasta",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@2.com"
+    },
+    {
+    "_id": "63a54d5508ebbe1432878a00",
+    "productName": "Beef curry",
+    "price": "510",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@3.com"
+    },
+    {
+    "_id": "63a54d5508ebbe1432878a01",
+    "productName": "Beef BBQ",
+    "price": "400",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@3.com"
+    },
+    {
+    "_id": "63a54d5508ebbe1432878a02",
+    "productName": "Chicken curry",
+    "price": "900",
+    "category": "Chicken",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@3.com"
+    },
+    {
+    "_id": "63a54d5508ebbe1432878a03",
+    "productName": "Cake",
+    "price": "220",
+    "category": "Dessert",
+    "itemType": "Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1587314168485-3236d6710814?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@3.com"
+    },
+    {
+    "_id": "63a54d5508ebbe1432878a04",
+    "productName": "Pasta Two",
+    "price": "300",
+    "category": "Pasta",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@3.com"
+    },
+    {
+    "_id": "63a5fcd608ebbe1432c9c6aa",
+    "productName": "Beef curry",
+    "price": "510",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com",
+    "rating": "5"
+    },
+    {
+    "_id": "63a5fcd608ebbe1432c9c6ab",
+    "productName": "Beef Ccq",
+    "price": "200",
+    "category": "Beef",
+    "itemType": "Non Veg",
+    "discount": "0",
+    "imgUrl": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
+    "email": "restauran@1.com",
+    "rating": "5"
+    }
+]
