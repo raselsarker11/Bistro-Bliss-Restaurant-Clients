@@ -16,18 +16,19 @@ const Subscribe = () => {
                     <h3 className="text-4xl font-bold text-gray-900 text-center ">
                     Get the menu of your favorite restaurants every day
                     </h3>
-                    <div className="form-control mx-auto">
-                    <label className="input-group">
-                        <input
-                        type="text"
-                        placeholder="info@site.com"
-                        className="input input-bordered h-[55px]"
-                        />
-                        <span className="bg-primary text-white text-lg font-bold px-9 my-10">
-                        Subscribe
-                        </span>
-                    </label>
+                    <div className="form-control mx-auto ">
+                        <label className="input-group flex">
+                            <input
+                                type="email"
+                                placeholder="info@site.com"
+                                className="input input-bordered h-[55px]"
+                            />
+                            <span className="bg-[#82CB15] text-white text-lg font-bold px-9 h-[60px] flex items-center justify-center">
+                                Subscribe
+                            </span>
+                        </label>
                     </div>
+
                 </div>
                 </div>
             </div>

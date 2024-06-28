@@ -1,0 +1,30 @@
+.category-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.swiper-card {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.swiper-card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.swiper-card-image {
+    width: 100px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    
+    display: block;
+    margin: 0 auto;
+}
+
+.swiper-card-details {
+    margin-top: 10px;
+    color: #fff;
+}

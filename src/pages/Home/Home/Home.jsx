@@ -10,6 +10,9 @@ import Blogs from "../Blogs/Blogs";
 import Subscribe from "../Subscribe/Subscribe";
 
 
+
+
+
 const Home = () => {
     return (
         <div>
@@ -17,7 +20,7 @@ const Home = () => {
                 <title>Bistro Boss | Home</title>
             </Helmet>
             <Banner></Banner>
-            <Category></Category>
+            <Category></Category>      
             <PopularMenu></PopularMenu>
             <Featured></Featured>
             <TopRatedProducts></TopRatedProducts>

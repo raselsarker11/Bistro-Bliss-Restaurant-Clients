@@ -17,9 +17,11 @@ const MenuCategory = ({items, title, img}) => {
                     ></MenuItem>)
                 }
             </div>
-            <Link to="/order">
-            <button className="btn btn-outline border-0 border-b-4 mt-4">Order Now</button>
-            </Link>
+            <div className="flex flex-col items-center justify-center ">
+                <Link to="/order">
+                    <button className="btn btn-outline border-0 border-b-4 mt-4">Order Now</button>
+                </Link>
+            </div>
         </div>
     );
 };

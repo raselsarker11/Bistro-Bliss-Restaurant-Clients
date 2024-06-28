@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "638c742908ebbe1432f10b72",
+        "category": "Beef",
+        "categoryImg": "https://www.themealdb.com/images/category/beef.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b73",
+        "category": "Chicken",
+        "categoryImg": "https://www.themealdb.com/images/category/chicken.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b74",
+        "category": "Dessert",
+        "categoryImg": "https://www.themealdb.com/images/category/dessert.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b77",
+        "category": "Pasta",
+        "categoryImg": "https://www.themealdb.com/images/category/pasta.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b79",
+        "category": "Seafood",
+        "categoryImg": "https://www.themealdb.com/images/category/seafood.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b7a",
+        "category": "Side",
+        "categoryImg": "https://www.themealdb.com/images/category/side.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b7e",
+        "category": "Breakfast",
+        "categoryImg": "https://www.themealdb.com/images/category/breakfast.png"
+    },
+    {
+        "_id": "638c742908ebbe1432f10b7f",
+        "category": "Goat",
+        "categoryImg": "https://www.themealdb.com/images/category/goat.png"
+    }
+]
